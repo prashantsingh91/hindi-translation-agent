@@ -44,8 +44,13 @@ hindi_translation_agent/
 
 1. **Clone the repository**
    ```bash
+<<<<<<< HEAD
    git clone <repository-url>
    cd hindi_translation_agent
+=======
+   git clone https://github.com/prashantsingh91/hindi-translation-agent.git
+   cd hindi-translation-agent
+>>>>>>> 68d99e1e1897d3aca0ce72f4c3564c144ed2385e
    ```
 
 2. **Install dependencies**
@@ -172,4 +177,8 @@ For questions, issues, or contributions, please:
 
 ---
 
+<<<<<<< HEAD
 **Made with ❤️ for Healthcare Localization in India**
+=======
+**Made with ❤️ for Healthcare Localization in India**
+>>>>>>> 68d99e1e1897d3aca0ce72f4c3564c144ed2385e
